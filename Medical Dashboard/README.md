@@ -1,4 +1,4 @@
-Project Goal: 
+#**Project Goal**: 
 
 Visualize tabular data on the mortality and morbidity of the population by region.
 
@@ -6,7 +6,7 @@ Visualize tabular data on the mortality and morbidity of the population by regio
 At the customer's request, the visualization was created in DataLens
 
 
- The result - Medical Dashboard
+ #**The result** - [Medical Dashboard](https://datalens.yandex/tl5olpaxtzyeh?tab=DK)
 
 
 
